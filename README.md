@@ -5,6 +5,10 @@
 09:41 수정사항 
 
 2차 수정
+<<<<<<< Updated upstream
 수정
 
 dfsfs 
+=======
+수정
+>>>>>>> Stashed changes
